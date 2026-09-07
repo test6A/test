@@ -1,0 +1,2 @@
+sourcePointId,tcId,page,module,title,priority,caseType,preconditions,steps,expected,automationTags,batchName,sourceTitle,sourceModule,notes
+1,TC_SAMPLE_001,申请列表页,搜索框 / Request Name,默认显示 Please enter,P2,功能用例,"已进入申请列表页\n搜索区域已展示","打开申请列表页\n定位搜索区域中的 Request Name 输入框\n观察输入框默认提示语","Request Name 输入框默认提示语显示为 Please enter","ui\nplaceholder\nsmoke",request-list-search-request-name-batch-01,差旅H5申请列表-搜索-搜索框：文本框默认提示语为“Request No./Request Name/Traveler”,差旅H5申请列表,CSV 中多值字段建议使用换行分隔
